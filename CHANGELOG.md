@@ -4,6 +4,11 @@ All notable changes to this reproducibility package will be documented here.
 
 ## [Unreleased]
 
+## [1.0.1] - 2026-08-15
+
+- Add explicit Zenodo metadata for the complete manuscript author list.
+- Prepare a Zenodo-triggering release with the archived model artifacts.
+
 ## [1.0.0] - 2026-08-15
 
 - Prepare the private pre-publication repository.
