@@ -1,0 +1,32 @@
+{
+  "title": "Machine-learning-guided prospective discovery of a process-relevant Pd replacement candidate for furfural hydrogenation",
+  "description": "Python code, fixed machine-learning datasets, optimized model artifacts, bootstrap results, and plotting scripts supporting the associated manuscript.",
+  "creators": [
+    {
+      "name": "Kim, Ye Eun"
+    },
+    {
+      "name": "Choi, Hyunjun"
+    },
+    {
+      "name": "Kim, Youngkeun"
+    },
+    {
+      "name": "Lee, Yong-Hee"
+    },
+    {
+      "name": "Lee, Man Sig"
+    },
+    {
+      "name": "Kim, Junghwan"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "furfural hydrogenation",
+    "tetrahydrofurfuryl alcohol",
+    "catalyst discovery",
+    "machine learning",
+    "palladium replacement"
+  ]
+}
