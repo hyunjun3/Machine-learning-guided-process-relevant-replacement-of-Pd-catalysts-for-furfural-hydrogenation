@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this code or dataset, please cite the associated manuscript."
 title: "Machine-learning-guided prospective discovery of a process-relevant Pd replacement candidate for furfural hydrogenation"
 type: software
-version: 0.1.0
+version: 1.0.0
 authors:
   - family-names: Kim
     given-names: Ye Eun
@@ -23,4 +23,3 @@ keywords:
   - catalyst discovery
   - machine learning
   - palladium replacement
-
