@@ -1,6 +1,6 @@
 # Machine-learning-guided prospective discovery of a process-relevant Pd replacement candidate for furfural hydrogenation
 
-> **Repository status:** private, pre-publication reproducibility package. The repository will remain private until the authors approve the final public release.
+> **Repository status:** public reproducibility package for the associated manuscript.
 
 This repository contains the Python code, fixed machine-learning datasets, optimized model artifacts, bootstrap results, and plotting scripts supporting the manuscript *Machine-learning-guided prospective discovery of a process-relevant Pd replacement candidate for furfural hydrogenation*.
 
@@ -146,14 +146,6 @@ python -m compileall figures base_model hyperparameter_tuning
 
 Small numerical differences may occur across operating systems, processor architectures, parallel-computing settings, and package builds. The exact package versions are recorded in `environment.yml` and `requirements.txt`.
 
-## Citation
-
-Citation metadata are provided in `CITATION.cff`.
-
-## Release plan
-
-The private preparation history uses version `0.1.0`. After the public code license is approved, the first public snapshot can be tagged `v1.0.0` and accompanied by a GitHub release. The detailed checks are recorded in `RELEASE_CHECKLIST.md`.
-
 ## License
 
-All rights are reserved during private pre-publication preparation. An open-source code license and any separate data-licensing terms will be finalized by the authors before the repository is made public.
+This repository is distributed under the [MIT License](LICENSE).
