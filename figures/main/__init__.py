@@ -1,0 +1,2 @@
+"""Main-text figure scripts."""
+

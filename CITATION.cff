@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code or dataset, please cite the associated manuscript."
+title: "Machine-learning-guided prospective discovery of a process-relevant Pd replacement candidate for furfural hydrogenation"
+type: software
+version: 0.1.0
+authors:
+  - family-names: Kim
+    given-names: Ye Eun
+  - family-names: Choi
+    given-names: Hyunjun
+  - family-names: Kim
+    given-names: Youngkeun
+  - family-names: Lee
+    given-names: Yong-Hee
+  - family-names: Lee
+    given-names: Man Sig
+  - family-names: Kim
+    given-names: Junghwan
+repository-code: "https://github.com/hyunjun3/Machine-learning-guided-process-relevant-replacement-of-Pd-catalysts-for-furfural-hydrogenation"
+keywords:
+  - furfural hydrogenation
+  - tetrahydrofurfuryl alcohol
+  - catalyst discovery
+  - machine learning
+  - palladium replacement
+
