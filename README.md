@@ -148,11 +148,11 @@ Small numerical differences may occur across operating systems, processor archit
 
 ## Citation
 
-Citation metadata are provided in `CITATION.cff`. The manuscript DOI and archival DOI will be added when available.
+Citation metadata are provided in `CITATION.cff`.
 
 ## Release plan
 
-The private preparation history uses version `0.1.0`. After the manuscript metadata, license, and archival DOI are approved, the first public snapshot will be tagged `v1.0.0` and accompanied by a GitHub release. The detailed checks are recorded in `RELEASE_CHECKLIST.md`.
+The private preparation history uses version `0.1.0`. After the public code license is approved, the first public snapshot can be tagged `v1.0.0` and accompanied by a GitHub release. The detailed checks are recorded in `RELEASE_CHECKLIST.md`.
 
 ## License
 

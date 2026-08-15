@@ -9,12 +9,10 @@ This repository remains private until every item below has been approved by the 
 - Visually compare the regenerated figures with the accepted manuscript and Supplementary Information.
 - Confirm that `dataset/` is the approved public dataset snapshot.
 
-## Publication metadata
+## Release metadata
 
-- Add the manuscript DOI, journal citation, and publication date to `CITATION.cff` and `README.md`.
 - Select and install the approved code license and, if needed, separate data terms.
 - Replace version `0.1.0` in `CITATION.cff` with `1.0.0`.
-- Add an archival DOI from Zenodo or Figshare if the authors choose an external preservation record.
 
 ## Confidentiality and repository hygiene
 
