@@ -2,8 +2,6 @@
 
 This repository contains the Python code, fixed machine-learning datasets, optimized model artifacts, bootstrap results, and plotting scripts supporting the manuscript *Machine-learning-guided prospective discovery of a process-relevant Pd replacement candidate for furfural hydrogenation*.
 
-The repository does **not** contain the manuscript PDF, Supplementary Information document, submission files, or unpublished internal review material.
-
 ## Overview
 
 The computational workflow covers:
