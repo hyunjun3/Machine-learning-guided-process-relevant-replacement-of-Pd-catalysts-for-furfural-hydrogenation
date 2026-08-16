@@ -1,5 +1,7 @@
 # Machine-learning-guided prospective discovery of a process-relevant Pd replacement candidate for furfural hydrogenation
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21950069.svg)](https://doi.org/10.5281/zenodo.21950069)
+
 This repository contains the Python code, fixed machine-learning datasets, optimized model artifacts, bootstrap results, and plotting scripts supporting the manuscript *Machine-learning-guided prospective discovery of a process-relevant Pd replacement candidate for furfural hydrogenation*.
 
 ## Overview
@@ -125,7 +127,7 @@ The fixed split contains 161 model input features. A random seed of 23 was used 
 
 The optimized model artifacts are stored in `hyperparameter_tuning/output/` and managed with Git LFS. The main analyses use `xgb_model_seed_23.json`. The other optimized models reproduce the nine-model comparison in Supplementary Fig. 2.
 
-Do not use GitHub source-code ZIP downloads for this repository because those archives can contain Git LFS pointer files instead of the model objects. Clone the repository and run `git lfs pull`.
+GitHub source-code archives for v1.0.1 and later include the Git LFS model objects. For development use, cloning the repository and running `git lfs pull` is recommended.
 
 ## Bootstrap analysis
 
@@ -141,6 +143,10 @@ python -m compileall figures base_model hyperparameter_tuning
 ```
 
 Small numerical differences may occur across operating systems, processor architectures, parallel-computing settings, and package builds. The exact package versions are recorded in `environment.yml` and `requirements.txt`.
+
+## Archived release
+
+Release v1.0.1 is preserved at Zenodo: [https://doi.org/10.5281/zenodo.21950069](https://doi.org/10.5281/zenodo.21950069).
 
 ## License
 
