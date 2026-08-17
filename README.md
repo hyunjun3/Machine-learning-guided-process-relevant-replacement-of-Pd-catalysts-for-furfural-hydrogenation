@@ -1,7 +1,5 @@
 # Machine-learning-guided prospective discovery of a process-relevant Pd replacement candidate for furfural hydrogenation
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21950069.svg)](https://doi.org/10.5281/zenodo.21950069)
-
 This repository contains the Python code, fixed machine-learning datasets, optimized model artifacts, bootstrap results, and plotting scripts supporting the manuscript *Machine-learning-guided prospective discovery of a process-relevant Pd replacement candidate for furfural hydrogenation*.
 
 ## Overview
@@ -117,7 +115,7 @@ Main-text Fig. 1, Fig. 4b-h, Fig. 5, Fig. 6a, and Supplementary Figs. 9-16 are s
 The `dataset/` directory contains:
 
 - the preprocessed literature-derived dataset (2,132 records);
-- the fixed training input and target files (1,956 records);
+- the fixed training input and target files (1,955 records);
 - the fixed test input and target files (177 records); and
 - a pickle file containing molar masses used to construct catalyst cases.
 
